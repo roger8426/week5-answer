@@ -1,0 +1,53 @@
+.adminHeader {
+    padding: 32px 32px 32px 32px;
+}
+
+.icon {
+    span:nth-child(1) {
+        margin-right: 26px;
+    }
+}
+
+.account {
+    padding-bottom: 24px;
+}
+
+.verification {
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+
+.accessLevel {
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+
+.costomAccess {
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+
+.deactivate {
+    margin-bottom: 36px;
+}
+
+.modalBtn button {
+    padding-left: 32px;
+    padding-right: 32px;
+}
+
+.infoModal {
+    line-height: 1.25;
+    img {
+        width: 141px;
+        height: 141px;
+        object-fit: cover;
+    }
+    .verified {
+        width: 64px;
+        font-size: 14px;
+    }
+    .close {
+        height: 141px;
+    }
+}

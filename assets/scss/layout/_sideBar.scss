@@ -1,13 +1,14 @@
 .sideNav {
-  img:nth-child(1) {
-    margin: 32px;
+  padding: 32px;
+
+  img {
+    margin-bottom: 32px;
   }
 
   ul {
     padding: 0;
 
     li {
-      padding-left: 32px;
       margin-bottom: 26px;
 
       p {
@@ -18,6 +19,9 @@
 }
 
 .user {
+  margin-left: 32px;
+  margin-bottom: 32px;
+
   img {
     width: 40px;
     height: 40px;

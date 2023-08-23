@@ -1,10 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC&display=swap');
 @import "../../node_modules/bootstrap/scss/functions";
+@import './base/reset';
 @import './utils/variables';
 
 @import './layout/sideBar';
 @import './layout/footer.scss';
 
 
-@import './pages/index.scss';
+@import './pages/admin';
 
 @import "../../node_modules/bootstrap";
